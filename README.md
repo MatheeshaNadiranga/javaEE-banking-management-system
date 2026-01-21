@@ -1,0 +1,1 @@
+"A lightweight banking simulation designed to demonstrate core financial operations, user authentication, and database management."
