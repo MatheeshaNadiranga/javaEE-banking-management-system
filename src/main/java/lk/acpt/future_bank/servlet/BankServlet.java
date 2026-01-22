@@ -54,7 +54,7 @@ public class BankServlet extends HttpServlet {
 
         resp.getWriter().write(
                 gson.toJson(isSaved
-                        ? "Account created successfully"
+                        ? "Account has created successfully"
                         : "Account creation failed")
         );
     }
